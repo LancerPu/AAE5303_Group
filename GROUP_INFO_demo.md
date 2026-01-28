@@ -9,8 +9,8 @@ We chose the name "AAE5303_Team" because it directly reflects our course code (A
 ## Team Members
 
 ### Member 1
-- **Student ID:** 12345678
-- **Name:** John Smith
+- **Student ID:** 25075125G
+- **Name:** Zhong Ziyi
 - **Brief Introduction:** John is passionate about software engineering and has strong experience in full-stack development. He specializes in backend architecture and database design.
 - **(individual) Assignment 1:** https://github.com/yourname/assignment1
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
