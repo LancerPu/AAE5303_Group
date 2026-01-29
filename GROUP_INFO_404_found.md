@@ -28,8 +28,8 @@ Error:Success
 - **Student ID:** 25128553G
 - **Name:** WANG Ruipu
 - **Brief Introduction:** Ruipu has just started learning programming, is very interested in this course, and is confident in being able to master it successfully.
-- **(individual) Assignment 1:** https://github.com/LancerPu/PolyU-AAE5303-assignment-1-template/blob/main/assi1
-- **(individual) Assignment 2:** https://github.com/LancerPu/PolyU-AAE5303-assignment-2-template/blob/main/assi2
+- **(individual) Assignment 1:** https://github.com/LancerPu/PolyU-AAE5303-assignment-1-template/blob/main/assi1.md
+- **(individual) Assignment 2:** https://github.com/LancerPu/PolyU-AAE5303-assignment-2-template/blob/main/assi2.md
 
 ### ❌ Member 3
 - **Student ID:** 25106011G
